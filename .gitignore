@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.env.*
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
+.streamlit/
+data/raw/
+data/processed/*_kpis.csv
