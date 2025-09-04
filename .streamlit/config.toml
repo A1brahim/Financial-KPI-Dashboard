@@ -1,15 +1,9 @@
-# .streamlit/config.toml
-
 [theme]
-base="light"                       # Keep it professional and clean
-primaryColor="#0047AB"             # Royal blue (main accent, matches finance/professional theme)
-backgroundColor="#FFFFFF"          # White background
-secondaryBackgroundColor="#F5F5F5" # Light gray for sidebar/cards
-textColor="#000000"                # Black text for clarity
-font="sans serif"
-
-# Optional highlight color (crimson for emphasis)
-[theme.accent]
-color="#DC143C"   # Crimson red (used in progress bars, highlights, etc.)
+base = "light"
+primaryColor = "#0047AB"             # royal blue
+backgroundColor = "#FFFFFF"          # white
+secondaryBackgroundColor = "#F5F5F5" # light gray cards/sidebar
+textColor = "#000000"
+font = "sans serif"
 
 
